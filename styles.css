@@ -25,6 +25,7 @@ body {
   border-radius: 8px;
 }
 .imagen {
+  height: 75%;
   width: 75%;
   background: linear-gradient(rgba(171, 92, 219, 0.4), rgba(171, 92, 219, 0.4)),
     url(../img/Bitmap.png);
