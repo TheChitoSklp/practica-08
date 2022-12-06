@@ -27,7 +27,7 @@ body {
 .imagen {
   width: 75%;
   background: linear-gradient(rgba(171, 92, 219, 0.4), rgba(171, 92, 219, 0.4)),
-    url(../img/Bitmap.png);
+    url(./Bitmap.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
